@@ -1052,6 +1052,8 @@ public interface Constant {
         String DOCKED_UUID = "DockedUuid";
         String CAN_CONTENTS = "CanContents";
         String CAN_COUNT = "CanCount";
+        String SEALED = "Sealed";
+        String SOLID = "Solid";
     }
 
     interface Chunk {
